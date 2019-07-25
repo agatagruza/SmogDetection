@@ -11,7 +11,7 @@ __UPDATES:__
 | ------------- |:-------------:| 
 |???            | ???           |
 |07/26/19       | ??? | 
-|07/25/19       | ???      |   
+|07/25/19       | 2st batch of images uploaded (20 for Clear and 20 for Smog folder)       |   
 |07/24/19       | 1st batch of images uploaded (20 for Clear and 20 for Smog folder)     | 
 
 More info https://github.com/SayedMaheen/SmogDetection and https://github.com/SayedMaheen/PlanetEarth
