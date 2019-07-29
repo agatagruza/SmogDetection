@@ -21,6 +21,11 @@ __UPDATES:__
 |07/25/19       | 2nd batch of images uploaded (20 for Clear and 20 for Smog folder)     |   
 |07/24/19       | 1st batch of images uploaded (20 for Clear and 20 for Smog folder)     | 
 
-More info https://github.com/SayedMaheen/SmogDetection and https://github.com/SayedMaheen/PlanetEarth
+<ins>More info:</ins></br> 
+https://github.com/SayedMaheen/SmogDetection</br> 
+https://github.com/SayedMaheen/PlanetEarth </br>
+https://github.com/ingus-t/SmogDetection </br>
+https://github.com/ingus-t/SmogDetectionCombined </br>
+https://github.com/SayedMaheen/sg_PlanetEarth </br>
 
 **#sg_planetearth (Facebook Secure and Private AI Scholarship Challenge 2019)**
