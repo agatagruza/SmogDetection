@@ -3,7 +3,11 @@
 SmogDetection is an Image Dataset Repo that has been created as a collaborative effort for</br>
 **PlanetEarth - Smog Classification Project**. 
 - **Clear** folder contains images of clear/visible conditions on a highway/traffic/road
-- **Smog** folder contains images of unclear visibility/smog/fog conditions on a highway/traffic/road
+- **Smog** folder contains images of unclear visibility/smog/fog conditions on a highway/traffic/road</br></br>
+<ins>Requirements for images:</ins>
+- Need to be roads/highway, and cars
+- NO night photos
+- NO copyright marks
 
 __UPDATES:__
 
