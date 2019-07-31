@@ -14,6 +14,8 @@ __UPDATES:__
 | Date          | Contribution  | 
 | ------------- |:-------------:| 
 |???            |???            |
+|???            |???            |
+|07/30/19       | 7th batch of images uploaded (20 for Clear and 20 for Smog folder)     |
 |07/29/19       | 6th batch of images uploaded (20 for Clear and 20 for Smog folder)     | 
 |07/28/19       | 5th batch of images uploaded (20 for Clear and 20 for Smog folder)     |  
 |07/27/19       | 4th batch of images uploaded (20 for Clear and 20 for Smog folder)     |
