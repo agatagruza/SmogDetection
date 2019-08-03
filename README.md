@@ -11,7 +11,8 @@ Our smog dataset contains two classes: smog and not smog, where smog = smoke + f
 - Avoid accident
 - Avoid Night Picture
 - Avoid bird eye view
-- Avoid large copyright watermark picture</br></br>
+- Avoid large copyright watermark picture
+- Acceptable image format jpg, jpeg, png, jfif, webp</br></br>
 If in doubt about synthetic picture, take a look at https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/
 
 __UPDATES:__
