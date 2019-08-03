@@ -4,10 +4,15 @@ SmogDetection is an Image Dataset Repo that has been created as a collaborative 
 **PlanetEarth - Smog Classification Project**. 
 - **Clear** folder contains images of clear/visible conditions on a highway/traffic/road
 - **Smog** folder contains images of unclear visibility/smog/fog conditions on a highway/traffic/road</br></br>
-<ins>Requirements for images:</ins>
-- Need to be roads/highway, and cars
-- NO night photos
-- NO copyright marks
+Our smog dataset contains two classes: smog and not smog, where smog = smoke + fog.</br></br>
+<ins>Rules and regulations for selecting picture:</ins>
+- Only Highway(street)
+- Avoid large quantity of people
+- Avoid accident
+- Avoid Night Picture
+- Avoid bird eye view
+- Avoid large copyright watermark picture</br></br>
+If in doubt about synthetic picture, take a look at https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/
 
 __UPDATES:__
 
