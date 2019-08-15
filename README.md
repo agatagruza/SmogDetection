@@ -1,4 +1,4 @@
-# SmogDetection
+# Smog Detection
 
 <ins>Description:</ins></br>
 Smog Detection project has been created as a collaborative team effort between 
