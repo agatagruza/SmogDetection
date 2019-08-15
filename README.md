@@ -30,7 +30,7 @@ Since inception, people in the group have taken their task most seriously. They 
 - Acceptable image format jpg, jpeg, png, jfif, webp</br></br>
 
 If in doubt about synthetic picture we were using https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/ </br>
-If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows.</br></br> 
+If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows).</br></br> 
 
 <ins>Contributors:</ins></br> 
 -----------LIST OF CONTRIBIUTORS GOES HERE-----------
