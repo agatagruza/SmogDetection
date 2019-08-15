@@ -1,10 +1,25 @@
 # SmogDetection
 
-SmogDetection is an Image Dataset Repo that has been created as a collaborative effort for</br>
-**PlanetEarth - Smog Classification Project**. 
-- **Clear** folder contains images of clear/visible conditions on a highway/traffic/road
-- **Smog** folder contains images of unclear visibility/smog/fog conditions on a highway/traffic/road</br></br>
-Our smog dataset contains two classes: smog and not smog, where smog = smoke + fog.</br></br>
+<ins>Description:</ins></br>
+Smog Detection project has been created as a collaborative team effort between 
+Facebook Secure and Private AI Scholars. Main focus of the project is to provide Deep Learning solutions to solve most concerning real world problems, such as Climate Change, Food Security, Plastic Pollution, Deep Fake, Oceanic Pollution, Industrial Nuclear Waste, Clean Energy and more. Currently our team is focusing on Smog and Fog Highway detection.</br></br> 
+
+<ins>Why is it important? Why should we care?</ins></br>
+Sudden appearance of smog and/or fog on the highway more often than not cause serious and sometimes fatal accidents. Smog is a main agent for severe air pollution. It can aggravate health problems including problems with berating and sleeping, as well as it can inversely damage plants and forest.</br></br>  
+
+<ins>Solution:</ins></br>
+Monitoring, early smog detection and preventive action. By using traffic cameras and train a model to recognize the smog/fog patterns, we can automate the alert and send notification in a timely manner. When smog/fog appear, then the system notifies drivers who are within specified range about upcoming “obstacle”. </br></br>  
+
+In any practical situation, there are other components that need to be taken into consideration as well. For example, presence of flying birds and any type of material that will block camera view. To identify the range of vision sensors need to be added to the solution.</br></br>  
+
+<ins>Our approach:</ins></br>
+There are plenty of existing solutions and advancements in computer vision. Our approach is to use Machine Learning Image Detection and train a CNN model. Smog Detection is a smog classification project, where images are arranged into two main cathegories: "Smog/Fog/NotClearlyVisible Highways" and "Clearly Visible Highways".</br></br>   
+
+<ins>Dataset:</ins></br> 
+Since inception, people in the group have taken their task most seriously. They contributed towards building unique dataset which now has more than 4,000 images divided evenly between above-mentioned two groups. Our collection consists of:</br></br> 
+![DataSet1](https://user-images.githubusercontent.com/7014697/63082087-25652d80-befa-11e9-9ccd-f49b5476010f.JPG)
+![DataSet2](https://user-images.githubusercontent.com/7014697/63082090-272ef100-befa-11e9-8d7a-2296e22aa7c3.JPG)
+
 <ins>Rules and regulations for selecting picture:</ins>
 - Only Highway(street)
 - Avoid large quantity of people
@@ -14,7 +29,11 @@ Our smog dataset contains two classes: smog and not smog, where smog = smoke + f
 - Avoid large copyright watermark picture
 - Acceptable image format jpg, jpeg, png, jfif, webp</br></br>
 If in doubt about synthetic picture we were using https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/ </br>
-If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows. 
+If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows.</br></br> 
+
+<ins>Contributors:</ins></br> 
+-----------LIST OF CONTRIBIUTORS GOES HERE-----------
+
 
 __UPDATES:__
 
