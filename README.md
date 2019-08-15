@@ -13,7 +13,8 @@ Our smog dataset contains two classes: smog and not smog, where smog = smoke + f
 - Avoid bird eye view
 - Avoid large copyright watermark picture
 - Acceptable image format jpg, jpeg, png, jfif, webp</br></br>
-If in doubt about synthetic picture, take a look at https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/
+If in doubt about synthetic picture we were using https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/ </br>
+If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows. 
 
 __UPDATES:__
 
