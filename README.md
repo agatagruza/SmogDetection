@@ -5,7 +5,7 @@ Smog Detection project has been created as a collaborative team effort between
 Facebook Secure and Private AI Scholars. Main focus of the project is to provide Deep Learning solutions to solve most concerning real world problems, such as Climate Change, Food Security, Plastic Pollution, Deep Fake, Oceanic Pollution, Industrial Nuclear Waste, Clean Energy and more. Currently our team is focusing on Smog and Fog Highway detection.</br></br> 
 
 <ins>Why is it important? Why should we care?</ins></br>
-Sudden appearance of smog and/or fog on the highway more often than not cause serious and sometimes fatal accidents. Smog is a main agent for severe air pollution. It can aggravate health problems including problems with berating and sleeping, as well as it can inversely damage plants and forest.</br></br>  
+Sudden appearance of smog and/or fog on the highway more often than not cause serious and sometimes fatal accidents. Smog is a main agent for severe air pollution. It can aggravate health problems including problems with breathing and sleeping, as well as it can inversely damage plants and forest.</br></br>  
 
 <ins>Solution:</ins></br>
 Monitoring, early smog detection and preventive action. By using traffic cameras and train a model to recognize the smog/fog patterns, we can automate the alert and send notification in a timely manner. When smog/fog appear, then the system notifies drivers who are within specified range about upcoming “obstacle”. </br></br>  
@@ -33,7 +33,17 @@ If in doubt about synthetic picture we were using https://people.ee.ethz.ch/~csa
 If in need of detect and remove duplicates (regardless of format and resolution) we were using https://dupeguru.voltaicideas.net/ It's a nice and simple an Open Source tool that will work cross different platforms (Linux, OS X, Windows).</br></br> 
 
 <ins>Contributors:</ins></br> 
------------LIST OF CONTRIBIUTORS GOES HERE-----------
+1. @Shudipto Trafder
+2. @Berenice
+3. @Agata [OR, USA]
+4. @Ingus Terbets
+5. @Akash Antony
+6. @Alexander Villasoto
+7. @Pooja Vinod
+8. @Viper
+9. @sourav kumar
+10. @George Christopoulos
+11. @Sayed Maheen Basheer 
 
 
 __UPDATES:__
