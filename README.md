@@ -43,7 +43,9 @@ If in need of detect and remove duplicates (regardless of format and resolution)
 8. @Viper
 9. @sourav kumar
 10. @George Christopoulos
-11. @Sayed Maheen Basheer 
+11. @Sayed Maheen Basheer
+12. @Abnishek Lalwani
+13. @LauraT
 
 
 __UPDATES:__
